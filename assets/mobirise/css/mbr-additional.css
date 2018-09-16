@@ -5290,6 +5290,9 @@ body {
     margin-left: 0 !important;
   }
 }
+.cid-r3DAthMVrS .mbr-section-title {
+  color: #f7ed4a;
+}
 .cid-r3sLh2DGs1 .navbar {
   background: #066008;
   transition: none;
@@ -5833,4 +5836,7 @@ body {
 }
 .cid-r3ITr3CFAR .body-item {
   text-align: left;
+}
+.cid-r3ITr3CFAR .mbr-section-title {
+  color: #f7ed4a;
 }
