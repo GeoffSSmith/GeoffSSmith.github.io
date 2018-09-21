@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "WHGC Seniors",
-    "currentPage": "page13.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#f7ed4a",
+        "primaryColor": "#08810b",
         "secondaryColor": "#ff3366",
         "successColor": "#08810b",
         "infoColor": "#82786e",
