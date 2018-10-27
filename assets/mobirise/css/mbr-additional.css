@@ -4154,6 +4154,7 @@ body {
 }
 .cid-r5YcZrvFrr .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
 .cid-r3QqozRjXq .navbar {
   background: #e4d295;
@@ -4624,6 +4625,13 @@ body {
 }
 .cid-r5Yc5Cj4A2 .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
+}
+.cid-r5Yc5Cj4A2 .mbr-section-subtitle P {
+  text-align: left;
+}
+.cid-r5Yc5Cj4A2 .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-r3QqrMBxUE .navbar {
   background: #e4d295;
